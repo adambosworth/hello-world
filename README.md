@@ -1,7 +1,7 @@
 # hello-world
 
 Hello Humans.
-This is Adam Bosworth learning Scala because one of my cients uses Scala in wierd and interesting ways.
+This is Adam Bosworth learning Scala because it is about time.
 Looking forward to finally using it although I'd rather be learning Julia to be honest. 
 Or just using Matlab.
 
